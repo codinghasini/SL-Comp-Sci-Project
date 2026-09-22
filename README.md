@@ -15,5 +15,5 @@ students breaks after a certain amount of time.
 Question: I might need to learn a new coding langauge if I want to make this a website and I have to investigate many ways to implement the timer structure and the timer breaks. 
 
 
-![image](file:///Users/9657410/anime-library-with-warm-lofi-vibes-cozy-inviting_741402-13554.avif)
+![image](file:///Users/9657410/anime-library-with-warm-lofi-vibes-cozy-inviting_741402-13554.png)
 
