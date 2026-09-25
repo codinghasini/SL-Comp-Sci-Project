@@ -14,5 +14,9 @@ Features: Timer, Library screen that displays when timer starts to simulate a fo
 students breaks after a certain amount of time. 
 Question: I might need to learn a new coding langauge if I want to make this a website and I have to investigate many ways to implement the timer structure and the timer breaks. 
 
+![Image](file:///Users/kirubashinisenthilnathan/Downloads/project.drawio.png)
+
+
+
 
 
