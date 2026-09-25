@@ -26,6 +26,21 @@ One main problem students have when it comes to studying or homework is their ph
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![LogicFlow](https://github.com/codinghasini/SL-Comp-Sci-Project/blob/main/images/flowchart.drawio.png)
 
 
