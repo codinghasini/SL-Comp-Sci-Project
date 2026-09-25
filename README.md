@@ -7,12 +7,17 @@ One main problem students have when it comes to studying or homework is their ph
 
 
 
-Pathway: IB SL
-User: Students will be the ones mainly using this program
-Problem: It helps students that want to study without distractions in order to stayed focus
-Features: Timer, Library screen that displays when timer starts to simulate a focused environment, and a feature that allows
-students breaks after a certain amount of time. 
-Question: I might need to learn a new coding langauge if I want to make this a website and I have to investigate many ways to implement the timer structure and the timer breaks. 
+- Pathway: IB SL
+
+- User: Students will be the ones mainly using this program
+
+- Problem: It helps students that want to study without distractions in order to stayed focus
+
+- Features: Timer, Library screen that displays when timer starts to simulate a focused environment, and a feature that allows
+
+- students breaks after a certain amount of time. 
+
+- Question: I might need to learn a new coding langauge if I want to make this a website and I have to investigate many ways to implement the timer structure and the timer breaks. 
 
 ![ClassDiagram](https://github.com/codinghasini/SL-Comp-Sci-Project/blob/main/images/project.drawio.png)
 
